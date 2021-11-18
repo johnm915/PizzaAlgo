@@ -1,1 +1,2 @@
 1. decide which pizza to order
+2. call pizza place
