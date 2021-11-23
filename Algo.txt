@@ -1,2 +1,17 @@
-1. decide which pizza to order
-2. call pizza place
+1) decide which pizza to order
+2) call pizza place
+3) place order
+    dine in
+    take out
+4a) Pay online
+    make payment
+    -tip
+ 4b)   pay inside
+    -add tip
+5a) wrong order
+    -credit account
+    -discount on next order
+ 5b)   refund
+    -Place money back on debit card
+   - cash back
+6)  add a line
